@@ -1,3 +1,4 @@
+# Editado por Hector Medina el 23-09-2025
 # auditoria_usuarios.ps1
 # Script para auditar usuarios locales
 
